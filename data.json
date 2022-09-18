@@ -250,7 +250,12 @@
     "Live": 0
   },
   {
-    "Country": "Congo",
+    "Country": "CG",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "CD",
     "Total": 0,
     "Live": 0
   },
@@ -905,7 +910,7 @@
     "Live": 0
   },
   {
-    "Country": "Russian Federation",
+    "Country": "Russia",
     "Total": 0,
     "Live": 0
   },
@@ -1030,7 +1035,7 @@
     "Live": 0
   },
   {
-    "Country": "South Sudan",
+    "Country": "SS",
     "Total": 0,
     "Live": 0
   },
