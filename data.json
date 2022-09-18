@@ -5,6 +5,11 @@
     "Live": 0
   },
   {
+    "Country": "Åland Islands",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Albania",
     "Total": 0,
     "Live": 0
@@ -15,12 +20,27 @@
     "Live": 0
   },
   {
+    "Country": "American Samoa",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Andorra",
     "Total": 0,
     "Live": 0
   },
   {
     "Country": "Angola",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Anguilla",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Antarctica",
     "Total": 0,
     "Live": 0
   },
@@ -40,12 +60,27 @@
     "Live": 0
   },
   {
+    "Country": "Aruba",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Australia",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Austria",
     "Total": 0,
     "Live": 0
   },
   {
     "Country": "Azerbaijan",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Bahamas",
     "Total": 0,
     "Live": 0
   },
@@ -85,12 +120,22 @@
     "Live": 0
   },
   {
+    "Country": "Bermuda",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Bhutan",
     "Total": 0,
     "Live": 0
   },
   {
     "Country": "Bolivia",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Bonaire",
     "Total": 0,
     "Live": 0
   },
@@ -105,12 +150,22 @@
     "Live": 0
   },
   {
+    "Country": "Bouvet Island",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Brazil",
     "Total": 0,
     "Live": 0
   },
   {
-    "Country": "Brunei",
+    "Country": "British Indian Ocean Territory",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Brunei Darussalam",
     "Total": 0,
     "Live": 0
   },
@@ -130,11 +185,6 @@
     "Live": 0
   },
   {
-    "Country": "Cabo Verde",
-    "Total": 0,
-    "Live": 0
-  },
-  {
     "Country": "Cambodia",
     "Total": 0,
     "Live": 0
@@ -150,6 +200,16 @@
     "Live": 0
   },
   {
+    "Country": "Cape Verde",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Cayman Islands",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Central African Republic",
     "Total": 0,
     "Live": 0
@@ -160,17 +220,22 @@
     "Live": 0
   },
   {
-    "Country": "Channel Islands",
-    "Total": 0,
-    "Live": 0
-  },
-  {
     "Country": "Chile",
     "Total": 0,
     "Live": 0
   },
   {
     "Country": "China",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Christmas Island",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Cocos (Keeling) Islands",
     "Total": 0,
     "Live": 0
   },
@@ -186,6 +251,11 @@
   },
   {
     "Country": "Congo",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Cook Islands",
     "Total": 0,
     "Live": 0
   },
@@ -206,6 +276,11 @@
   },
   {
     "Country": "Cuba",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Curaçao",
     "Total": 0,
     "Live": 0
   },
@@ -240,11 +315,6 @@
     "Live": 0
   },
   {
-    "Country": "DR Congo",
-    "Total": 0,
-    "Live": 0
-  },
-  {
     "Country": "Ecuador",
     "Total": 0,
     "Live": 0
@@ -275,17 +345,22 @@
     "Live": 0
   },
   {
-    "Country": "Eswatini",
-    "Total": 0,
-    "Live": 0
-  },
-  {
     "Country": "Ethiopia",
     "Total": 0,
     "Live": 0
   },
   {
-    "Country": "Faeroe Islands",
+    "Country": "Falkland Islands (Malvinas)",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Faroe Islands",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Fiji",
     "Total": 0,
     "Live": 0
   },
@@ -301,6 +376,16 @@
   },
   {
     "Country": "French Guiana",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "French Polynesia",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "French Southern Territories",
     "Total": 0,
     "Live": 0
   },
@@ -340,12 +425,32 @@
     "Live": 0
   },
   {
+    "Country": "Greenland",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Grenada",
     "Total": 0,
     "Live": 0
   },
   {
+    "Country": "Guadeloupe",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Guam",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Guatemala",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Guernsey",
     "Total": 0,
     "Live": 0
   },
@@ -370,7 +475,12 @@
     "Live": 0
   },
   {
-    "Country": "Holy See",
+    "Country": "Heard Island and McDonald Islands",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Holy See (Vatican City State)",
     "Total": 0,
     "Live": 0
   },
@@ -445,6 +555,11 @@
     "Live": 0
   },
   {
+    "Country": "Jersey",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Jordan",
     "Total": 0,
     "Live": 0
@@ -460,6 +575,21 @@
     "Live": 0
   },
   {
+    "Country": "Kiribati",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "North Korea",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "South Korea",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Kuwait",
     "Total": 0,
     "Live": 0
@@ -470,7 +600,7 @@
     "Live": 0
   },
   {
-    "Country": "Laos",
+    "Country": "Lao People's Democratic Republic",
     "Total": 0,
     "Live": 0
   },
@@ -520,6 +650,11 @@
     "Live": 0
   },
   {
+    "Country": "Macedonia",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Madagascar",
     "Total": 0,
     "Live": 0
@@ -550,6 +685,16 @@
     "Live": 0
   },
   {
+    "Country": "Marshall Islands",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Martinique",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Mauritania",
     "Total": 0,
     "Live": 0
@@ -566,6 +711,11 @@
   },
   {
     "Country": "Mexico",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Micronesia",
     "Total": 0,
     "Live": 0
   },
@@ -590,6 +740,11 @@
     "Live": 0
   },
   {
+    "Country": "Montserrat",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Morocco",
     "Total": 0,
     "Live": 0
@@ -610,12 +765,27 @@
     "Live": 0
   },
   {
+    "Country": "Nauru",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Nepal",
     "Total": 0,
     "Live": 0
   },
   {
     "Country": "Netherlands",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "New Caledonia",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "New Zealand",
     "Total": 0,
     "Live": 0
   },
@@ -635,12 +805,17 @@
     "Live": 0
   },
   {
-    "Country": "North Korea",
+    "Country": "Niue",
     "Total": 0,
     "Live": 0
   },
   {
-    "Country": "North Macedonia",
+    "Country": "Norfolk Island",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Northern Mariana Islands",
     "Total": 0,
     "Live": 0
   },
@@ -660,7 +835,22 @@
     "Live": 0
   },
   {
+    "Country": "Palau",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Palestine",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Panama",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Papua New Guinea",
     "Total": 0,
     "Live": 0
   },
@@ -680,12 +870,22 @@
     "Live": 0
   },
   {
+    "Country": "Pitcairn",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Poland",
     "Total": 0,
     "Live": 0
   },
   {
     "Country": "Portugal",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Puerto Rico",
     "Total": 0,
     "Live": 0
   },
@@ -705,12 +905,17 @@
     "Live": 0
   },
   {
-    "Country": "Russia",
+    "Country": "Russian Federation",
     "Total": 0,
     "Live": 0
   },
   {
     "Country": "Rwanda",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Saint Barthélemy",
     "Total": 0,
     "Live": 0
   },
@@ -730,7 +935,22 @@
     "Live": 0
   },
   {
+    "Country": "Saint Martin (French part)",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Saint Vincent and the Grenadines",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Samoa",
     "Total": 0,
     "Live": 0
   },
@@ -740,7 +960,7 @@
     "Live": 0
   },
   {
-    "Country": "Sao Tome & Principe",
+    "Country": "Sao Tome and Principe",
     "Total": 0,
     "Live": 0
   },
@@ -775,12 +995,22 @@
     "Live": 0
   },
   {
+    "Country": "Sint Maarten (Dutch part)",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Slovakia",
     "Total": 0,
     "Live": 0
   },
   {
     "Country": "Slovenia",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Solomon Islands",
     "Total": 0,
     "Live": 0
   },
@@ -795,7 +1025,7 @@
     "Live": 0
   },
   {
-    "Country": "South Korea",
+    "Country": "South Georgia and the South Sandwich Islands",
     "Total": 0,
     "Live": 0
   },
@@ -815,17 +1045,22 @@
     "Live": 0
   },
   {
-    "Country": "State of Palestine",
-    "Total": 0,
-    "Live": 0
-  },
-  {
     "Country": "Sudan",
     "Total": 0,
     "Live": 0
   },
   {
     "Country": "Suriname",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Svalbard and Jan Mayen",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Swaziland",
     "Total": 0,
     "Live": 0
   },
@@ -840,7 +1075,7 @@
     "Live": 0
   },
   {
-    "Country": "Syria",
+    "Country": "Syrian Arab Republic",
     "Total": 0,
     "Live": 0
   },
@@ -865,17 +1100,22 @@
     "Live": 0
   },
   {
-    "Country": "The Bahamas",
-    "Total": 0,
-    "Live": 0
-  },
-  {
     "Country": "Timor-Leste",
     "Total": 0,
     "Live": 0
   },
   {
     "Country": "Togo",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Tokelau",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Tonga",
     "Total": 0,
     "Live": 0
   },
@@ -896,6 +1136,16 @@
   },
   {
     "Country": "Turkmenistan",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Tuvalu",
     "Total": 0,
     "Live": 0
   },
@@ -925,6 +1175,11 @@
     "Live": 0
   },
   {
+    "Country": "United States Minor Outlying Islands",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Uruguay",
     "Total": 0,
     "Live": 0
@@ -935,12 +1190,32 @@
     "Live": 0
   },
   {
+    "Country": "Vanuatu",
+    "Total": 0,
+    "Live": 0
+  },
+  {
     "Country": "Venezuela",
     "Total": 0,
     "Live": 0
   },
   {
-    "Country": "Vietnam",
+    "Country": "Viet Nam",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Virgin Islands",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Virgin Islands",
+    "Total": 0,
+    "Live": 0
+  },
+  {
+    "Country": "Wallis and Futuna",
     "Total": 0,
     "Live": 0
   },
