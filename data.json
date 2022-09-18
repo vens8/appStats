@@ -596,8 +596,8 @@
   },
   {
     "Country": "Kuwait",
-    "Total": 20,
-    "Live": 20
+    "Total": 0,
+    "Live": 0
   },
   {
     "Country": "Kyrgyzstan",
@@ -912,7 +912,7 @@
   {
     "Country": "Russia",
     "Total": 0,
-    "Live": 0
+    "Live": 30
   },
   {
     "Country": "Rwanda",
