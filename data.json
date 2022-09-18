@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
   {
     "Country": "India",
@@ -11,15 +10,3 @@
     "Live": 10
   }
 ]
-=======
-[
-  {
-    "Country": "India",
-    "Users": 200
-  },
-  {
-    "Country": "France",
-    "Users": 100
-  }
-]
->>>>>>> ad281d8e636900e7c17ee3dbeb666b4e4e9863d4
