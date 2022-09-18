@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+  <head>
+    <script
+      type="text/javascript"
+      src="https://www.gstatic.com/charts/loader.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="http://code.jquery.com/jquery-1.11.0.min.js"
+    ></script>
+    <script>
+      console.log("Hey there!");
+      google.charts.load("current", {
+        packages: ["geochart"],
+        mapsApiKey: "YOUR GOOGLE API KEY",
+      });
+      function loadJSON(path, success, error) {
+      var xhr = new XMLHttpRequest();
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4) {
+          if (xhr.status === 200) {
+            success(JSON.parse(xhr.responseText));
+          }
+          else {
+            error(xhr);
+          }
+        }
+      };
+      xhr.open('GET', path, true);
+      xhr.send();
+}
+      var mydata;
+      loadJSON("https://raw.githubusercontent.com/vens8/appStats/main/data.json",myData,'jsonp');
+      google.charts.setOnLoadCallback(drawRegionsMap);
+      function myData(temp)
+      {
+        mydata = temp;
+        console.log(temp);
+        console.log(temp.length);
+      }
+      
+      
+      function drawRegionsMap() {
+            var data = new google.visualization.DataTable();
+            data.addColumn("string", "Country");
+            data.addColumn("number", "Users");
+            console.log("reached inside!");
+            console.log("mydata length: ", mydata.length);
+            for (var i = 0; i < mydata.length; i++) {
+              console.log("Country", mydata[i].Country)
+              console.log("Users", mydata[i].Users)
+              data.addRow([mydata[i].Country, mydata[i].Users]);
+            }
+            console.log(data);
+            var options = {
+              title: "Certificate details",
+              is3D: true,
+            };
+            var chart = new google.visualization.GeoChart(
+              document.getElementById("regions_div")
+            );
+            chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="regions_div" style="width: 700px; height: 400px"></div>
+  </body>
+</html>
