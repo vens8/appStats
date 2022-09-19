@@ -43,18 +43,18 @@
       function drawRegionsMap() {
             var data = new google.visualization.DataTable();
             data.addColumn("string", "Country");
-            data.addColumn("number", "Users");
+            data.addColumn("number", "Total")
+            data.addColumn("number", "Live");
             console.log("reached inside!");
             console.log("mydata length: ", mydata.length);
             for (var i = 0; i < mydata.length; i++) {
-              console.log("Country", mydata[i].Country)
-              console.log("Users", mydata[i].Users)
-              data.addRow([mydata[i].Country, mydata[i].Users]);
+              data.addRow([mydata[i].Country, mydata[i].Total, mydata[i].Live]);
             }
             console.log(data);
             var options = {
               title: "Certificate details",
               is3D: true,
+              colorAxis: ["#ffffff", "#88F892"]
             };
             var chart = new google.visualization.GeoChart(
               document.getElementById("regions_div")
